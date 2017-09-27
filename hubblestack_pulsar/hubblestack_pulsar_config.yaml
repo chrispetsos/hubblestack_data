@@ -45,7 +45,7 @@
         regex: True
   recurse: True
   auto_add: True
-return: splunk_pulsar_return
+return: graylog_returner
 checksum: sha256
 stats: True
 batch: True
